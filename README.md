@@ -10,7 +10,7 @@ Click a link to open it in Google Colab and run it with no install.
 | :-- | :-- | :-- |
 | 第1話 時系列予測ってなに？ / Ep. 1 What Is Time Series Forecasting? | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep01_ja.ipynb) | [Open in Colab](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep01_en.ipynb) |
 | 第2話 いちばんカンタンな予測 / Ep. 2 The Simplest Forecast | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep02_ja.ipynb) | [Open in Colab](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep02_en.ipynb) |
-| 第3話 予測に点数をつける / Ep. 3 Giving Forecasts a Score | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep03_ja.ipynb) | 準備中 / Coming soon |
+| 第3話 予測に点数をつける / Ep. 3 Scoring a Forecast | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep03_ja.ipynb) | [Open in Colab](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep03_en.ipynb) |
 
 ## 動かし方 / How to run
 
