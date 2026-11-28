@@ -1,15 +1,16 @@
 # Mirai Graph みらいグラフ — Notebooks
 
-YouTube チャンネル「Mirai Graph みらいグラフ」（@MiraiGraphLab）の、各話の後半（実践編）のコードです。
+YouTube チャンネル「Mirai Graph」（@MiraiGraph・日本語版と英語版）の、各話の後半（実践編）のコードです。
 リンクを押すと Google Colab が開き、インストールなしで動かせます。
 
-Code from the second half (practice part) of each episode on the YouTube channel "Mirai Graph みらいグラフ" (@MiraiGraphLab).
+Code from the second half (practice part) of each episode on the YouTube channel "Mirai Graph" (@MiraiGraph, in English and Japanese).
 Click a link to open it in Google Colab and run it with no install.
 
 | 話 / Episode | 日本語 | English |
 | :-- | :-- | :-- |
 | 第1話 時系列予測ってなに？ / Ep. 1 What Is Time Series Forecasting? | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep01_ja.ipynb) | [Open in Colab](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep01_en.ipynb) |
 | 第2話 いちばんカンタンな予測 / Ep. 2 The Simplest Forecast | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep02_ja.ipynb) | [Open in Colab](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep02_en.ipynb) |
+| 第3話 予測に点数をつける / Ep. 3 Giving Forecasts a Score | [Colab で開く](https://colab.research.google.com/github/mirai-graph/notebooks/blob/main/ep03_ja.ipynb) | 準備中 / Coming soon |
 
 ## 動かし方 / How to run
 
